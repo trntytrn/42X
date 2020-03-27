@@ -2454,5 +2454,7 @@ img.alignright{
 		text-align:center;
 	}
 
-
+	.responsiveimage {
+	  max-width: 15%;
+	  height: auto;
 }
